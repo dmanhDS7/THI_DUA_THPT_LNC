@@ -1,0 +1,8 @@
+{
+  "name": "Quản Lý Thi Đua Nề Nếp THPT",
+  "description": "Hệ thống theo dõi, chấm điểm vi phạm nề nếp, điểm cộng khen thưởng, bảng tổng kết thi đua và xếp hạng tuần dành cho các trường THPT",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
